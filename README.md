@@ -56,19 +56,12 @@ streamlit run app.py
 Python, Streamlit, Pandas, NumPy, Scikit-learn, Pickle
 
 ## 🛠 Tools Used
-Jupyter Notebook – for model training and testing,
-VS Code – for coding and integration,
-Streamlit – for building the web interface
+- Jupyter Notebook : for model training and testing,
+- VS Code : for coding and integration,
+- Streamlit : for building the web interface
 
 ## 🧠 AI Models Integrated
-Support Vector Classifier (SVC)
-Random Forest
-Gradient Boosting
-K-Nearest Neighbors
-Multinomial Naive Bayes
-Decision Tree
-Logistic Regression
-XGBoost 
+Support Vector Classifier (SVC), Random Forest, Gradient Boosting, K-Nearest Neighbors, Multinomial Naive Bayes, Decision Tree, Logistic Regression, XGBoost 
 
 
 
