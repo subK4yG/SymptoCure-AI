@@ -56,8 +56,8 @@ streamlit run app.py
 Python, Streamlit, Pandas, NumPy, Scikit-learn, Pickle
 
 ## 🛠 Tools Used
-Jupyter Notebook – for model training and testing
-VS Code – for coding and integration
+Jupyter Notebook – for model training and testing,
+VS Code – for coding and integration,
 Streamlit – for building the web interface
 
 ## 🧠 AI Models Integrated
