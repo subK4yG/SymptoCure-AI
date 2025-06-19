@@ -1,4 +1,4 @@
-# 🤖 SymptoCure - AI-Powered Disease Prediction System
+# 🤖SymptoCure AI: Smart Multiple Disease Predictor with Medication Suggestion
 
 **SymptoCure** is a **Streamlit-based intelligent web application** that predicts multiple diseases using machine learning models based on user-input symptoms. 
 It also provides **personalized health guidance**, including medication, diet, precautions, workouts, and insightful visualizations.
