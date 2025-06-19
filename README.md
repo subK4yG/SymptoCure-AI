@@ -36,6 +36,16 @@ pip install streamlit pandas numpy scikit-learn
 # Step 2: Run the app
 streamlit run app.py
 
+## 📂 Project Structure
+SymptoCure-AI
+├── app.py # Streamlit App
+├── SymtoCure.ipynb
+├── model_results.csv
+├── datasets(all datasets)/ # Symptom, disease,diet, precaution, training, medication data
+├── models(all .pkl files)/ # Trained AI model
+├── cover.png
+├── visualizations/ # Data visualizations
+
 ## 📸 Screenshots--
 # 🏠 Welcome Page-
 ![Screenshot 2025-06-19 120614](https://github.com/user-attachments/assets/ba4b677f-aaa6-425a-bd65-a43de5134acb)
